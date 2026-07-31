@@ -1,0 +1,37 @@
+# Mitigata — Cyber Insurance + Security + Compliance
+
+> IRDAI-licensed cyber insurance broker and 24×7 cybersecurity provider for Indian businesses. Bundles policy + breach response + active defence under one accountable pod.
+
+## Primary surfaces
+- [Home](https://www.mitigata.com/): cyber insurance + security + compliance overview
+- [Insurance](https://www.mitigata.com/insurance): smart cyber insurance for businesses, executives, individuals + 20 corporate insurance products
+- [Security](https://www.mitigata.com/security): EDR/XDR, SIEM, SOC, MDR, DFIR, VAPT, AI red/blue/purple teaming, vCISO, 27 services
+- [Compliance](https://www.mitigata.com/compliance): ISO 27001/9001/42001/20000-1, SOC 2, PCI-DSS, DPDP, GDPR, HIPAA, SEBI-CSCRF, IRDAI, RBI audits
+- [Gordon AI](https://www.mitigata.com/gordon-ai): autonomous AI SOC, dark-web monitoring, brand intel, ASM, third-party risk, phishing-LLM simulation
+- [Claims](https://www.mitigata.com/claims): in-house claims pod, sub-18m containment, corporate + personal experience
+
+## What we do
+- Cyber liability + 1st-party + 3rd-party + EPLI + crime + D&O + E&O coverage
+- 24×7 in-house SOC (Bengaluru), MDR, EDR/XDR, AV, SIEM, SASE, ZTNA, CASB, NAC, DLP
+- ISO 27001, SOC 2 (Type 1/2), DPDP, RBI IS-audit, IRDAI audit, SEBI-CSCRF, GDPR, HIPAA, PCI-DSS, CERT-In
+- Autonomous AI SOC (Gordon), dark-web + brand monitoring, ASM, TPRM, phishing-LLM simulations
+- Breach claims: report, contain, indemnify
+
+## Differentiators
+- One accountable pod (insurance + security + compliance — not three vendors)
+- IRDAI-licensed broker (license #) — real policy issuance, not just advisory
+- Sub-18-minute containment SLO via in-house SOC
+- 800+ businesses protected, ₹200 Cr+ losses averted
+
+## Locations
+- HQ: Second Floor, Gayathri Mansion, 80/3, Outer Ring Road, near Salarpuria Softzone, opp. Shell Petrol Bunk, Bellandur, Bengaluru 560103
+
+## Contact
+- Sales: contact@mitigata.com
+- Claims: claims@mitigata.com · +91 82965 91959
+- Grievance: grievance@mitigata.com
+- Legal: legal@mitigata.com
+
+## Crawlers
+- Sitemap: https://www.mitigata.com/sitemap.xml
+- Robots: https://www.mitigata.com/robots.txt
