@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "mitigata",
+    "captured_at": "2026-10-11T191226",
+    "source_url": "https://mitigata.com/",
+    "source_type": "Website",
+    "file": "mitigata-2026-10-11T191226.png",
+    "bytes": 169437,
+    "capture": "playwright-local"
+  }
+]
