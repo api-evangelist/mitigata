@@ -64,6 +64,87 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Mitigata is a company surfaced as a portfolio company of bessemer-venture-partners and added to the API Evangelist network as a stub for enrichment. Sector: cybersecurity. This profile is a lead awaiting the enrichment pipeline.
+Mitigata is an India-based, IRDAI-licensed integrated cyber resilience platform that bundles cyber insurance, 24x7 security operations, and compliance under one accountable pod. It offers smart cyber liability, D&O, E&O, crime and EPLI insurance; an in-house Bengaluru SOC with MDR, EDR/XDR, SIEM, SASE, ZTNA and DFIR; automated compliance for ISO 27001, SOC 2, PCI DSS, DPDP, GDPR, HIPAA, RBI and SEBI-CSCRF; and Gordon AI, an autonomous AI SOC covering dark-web monitoring, attack-surface management, third-party risk and phishing simulation. Mitigata publishes eleven purpose-built APIs (cyber score, email security, asset discovery, phishing protect, dark-web scanner, security checklist, third-party risk, employee risk, attack assist, cyber insurance and claims) but gates technical onboarding behind a booked API walkthrough.
 
-Backed by: bessemer-venture-partners — https://mitigata.com/
+**Areas:** Company · Cybersecurity · Cyber Insurance · Compliance · Security Operations · Managed Security · Insurance · India
+
+## Mitigata on APIs.io
+
+Everything profiled for Mitigata is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/mitigata/](https://apis.io/providers/mitigata/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Mitigata Domain Security](https://apis.io/security/mitigata/mitigata-domain-security/)
+- [Mitigata Trust Center](https://apis.io/security/mitigata/mitigata-trust-center/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://mitigata.com/)
+- [Documentation](https://mitigata.com/help)
+- [Getting started](https://mitigata.com/get-started)
+- [API reference](https://mitigata.com/resources/apis)
+- [Support](https://mitigata.com/company/contact-us)
+- [Blog](https://mitigata.com/blog/)
+- [Terms of service](https://mitigata.com/terms)
+- [Privacy policy](https://mitigata.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 20.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 55.4 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 35.7 |
+| Access clarity | 36.8 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 16.7** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/mitigata/](https://apis.io/providers/mitigata/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Mitigata: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/mitigata/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
